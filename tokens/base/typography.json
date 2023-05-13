@@ -156,6 +156,10 @@
       "value": "-0.6%",
       "type": "letterSpacing"
     },
+    "brand-copy": {
+      "value": "-0.4%",
+      "type": "letterSpacing"
+    },
     "buttons": {
       "value": "3%",
       "type": "letterSpacing"
@@ -169,6 +173,28 @@
     "default": {
       "value": "0",
       "type": "paragraphSpacing"
+    }
+  },
+  "heading1": {
+    "desktop": {
+      "value": {
+        "fontFamily": "{fontFamilies.brand}",
+        "fontWeight": "{fontWeights.headlines.semibold}",
+        "lineHeight": "{lineHeights.headlines.xsm}",
+        "fontSize": "{fontSize.9xl}",
+        "letterSpacing": "{letterSpacing.brand}"
+      },
+      "type": "typography"
+    },
+    "tablet": {
+      "value": {
+        "fontFamily": "{fontFamilies.brand}",
+        "fontWeight": "{fontWeights.headlines.semibold}",
+        "lineHeight": "{lineHeights.headlines.xsm}",
+        "fontSize": "{fontSize.8xl}",
+        "letterSpacing": "{letterSpacing.brand}"
+      },
+      "type": "typography"
     }
   }
 }
