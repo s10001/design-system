@@ -195,6 +195,16 @@
         "letterSpacing": "{letterSpacing.brand}"
       },
       "type": "typography"
+    },
+    "mobile": {
+      "value": {
+        "fontFamily": "{fontFamilies.brand}",
+        "fontWeight": "{fontWeights.headlines.semibold}",
+        "lineHeight": "{lineHeights.headlines.xsm}",
+        "fontSize": "{fontSize.6xl}",
+        "letterSpacing": "{letterSpacing.brand}"
+      },
+      "type": "typography"
     }
   }
 }
