@@ -2,13 +2,8 @@
   "tokenSetOrder": [
     "base/colors",
     "base/typography",
-    "base/radii",
     "base/shadows",
-    "base/dimension",
-    "themes/high contrast",
-    "themes/dark",
-    "themes/light",
-    "semantic/theme",
-    "semantic/typography"
+    "base/radii",
+    "base/dimension"
   ]
 }
