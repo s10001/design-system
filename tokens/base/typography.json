@@ -5,7 +5,11 @@
       "type": "fontFamilies"
     },
     "body": {
-      "value": "Inter",
+      "value": "Founders Grotesk",
+      "type": "fontFamilies"
+    },
+    "brand": {
+      "value": "Founders Grotesk Condensed",
       "type": "fontFamilies"
     }
   },

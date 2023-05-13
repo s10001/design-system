@@ -1,10 +1,10 @@
 {
   "tokenSetOrder": [
     "base/colors",
+    "base/typography",
     "base/radii",
     "base/shadows",
     "base/dimension",
-    "base/typography",
     "themes/high contrast",
     "themes/dark",
     "themes/light",
