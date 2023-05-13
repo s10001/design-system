@@ -67,7 +67,7 @@
   },
   "fontSize": {
     "base": {
-      "value": "16",
+      "value": "18",
       "type": "scale"
     },
     "scale": {
