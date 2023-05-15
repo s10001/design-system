@@ -222,5 +222,72 @@
       },
       "type": "typography"
     }
+  },
+  "body": {
+    "desktop": {
+      "value": {
+        "fontFamily": "{fontFamilies.body}",
+        "fontWeight": "{fontWeights.body.regular}",
+        "lineHeight": "{lineHeights.body.150}",
+        "fontSize": "{fontSize.md}",
+        "letterSpacing": "{letterSpacing.body}",
+        "paragraphSpacing": "{paragraphSpacing.default}"
+      },
+      "type": "typography"
+    },
+    "tablet": {
+      "value": {
+        "fontFamily": "{fontFamilies.body}",
+        "fontWeight": "{fontWeights.body.regular}",
+        "lineHeight": "{lineHeights.body.150}",
+        "fontSize": "{fontSize.md}",
+        "letterSpacing": "{letterSpacing.body}",
+        "paragraphSpacing": "{paragraphSpacing.default}"
+      },
+      "type": "typography"
+    },
+    "mobile": {
+      "value": {
+        "fontFamily": "{fontFamilies.body}",
+        "fontWeight": "{fontWeights.body.regular}",
+        "lineHeight": "{lineHeights.body.150}",
+        "fontSize": "{fontSize.md}",
+        "letterSpacing": "{letterSpacing.body}",
+        "paragraphSpacing": "{paragraphSpacing.default}"
+      },
+      "type": "typography"
+    }
+  },
+  "heading2": {
+    "desktop": {
+      "value": {
+        "fontFamily": "{fontFamilies.headlines}",
+        "fontWeight": "{fontWeights.headlines.semibold}",
+        "lineHeight": "{lineHeights.headlines.90}",
+        "fontSize": "{fontSize.6xl}",
+        "letterSpacing": "{letterSpacing.headlines}"
+      },
+      "type": "typography"
+    },
+    "tablet": {
+      "value": {
+        "fontFamily": "{fontFamilies.brand}",
+        "fontWeight": "{fontWeights.headlines.semibold}",
+        "lineHeight": "{lineHeights.headlines.90}",
+        "fontSize": "{fontSize.8xl}",
+        "letterSpacing": "{letterSpacing.brand}"
+      },
+      "type": "typography"
+    },
+    "mobile": {
+      "value": {
+        "fontFamily": "{fontFamilies.brand}",
+        "fontWeight": "{fontWeights.headlines.semibold}",
+        "lineHeight": "{lineHeights.headlines.90}",
+        "fontSize": "{fontSize.6xl}",
+        "letterSpacing": "{letterSpacing.brand}"
+      },
+      "type": "typography"
+    }
   }
 }
