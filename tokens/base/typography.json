@@ -268,24 +268,16 @@
         "letterSpacing": "{letterSpacing.headlines}"
       },
       "type": "typography"
-    },
-    "tablet": {
+    }
+  },
+  "heading3": {
+    "desktop": {
       "value": {
-        "fontFamily": "{fontFamilies.brand}",
+        "fontFamily": "{fontFamilies.headlines}",
         "fontWeight": "{fontWeights.headlines.semibold}",
         "lineHeight": "{lineHeights.headlines.90}",
-        "fontSize": "{fontSize.8xl}",
-        "letterSpacing": "{letterSpacing.brand}"
-      },
-      "type": "typography"
-    },
-    "mobile": {
-      "value": {
-        "fontFamily": "{fontFamilies.brand}",
-        "fontWeight": "{fontWeights.headlines.semibold}",
-        "lineHeight": "{lineHeights.headlines.90}",
-        "fontSize": "{fontSize.6xl}",
-        "letterSpacing": "{letterSpacing.brand}"
+        "fontSize": "{fontSize.3xl}",
+        "letterSpacing": "{letterSpacing.headlines}"
       },
       "type": "typography"
     }
