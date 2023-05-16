@@ -236,7 +236,7 @@
       "type": "letterSpacing"
     },
     "buttons": {
-      "value": "3%",
+      "value": "0%",
       "type": "letterSpacing"
     },
     "captions": {
@@ -377,6 +377,38 @@
         "fontSize": "{fontSize.4xl}",
         "letterSpacing": "{letterSpacing.body}",
         "paragraphSpacing": "{paragraphSpacing.default}"
+      },
+      "type": "typography"
+    }
+  },
+  "button": {
+    "desktop": {
+      "value": {
+        "fontFamily": "{body.FoundersGrotesk}",
+        "fontWeight": "{fontWeights.headlines.semibold}",
+        "lineHeight": "{lineHeights.headlines.100}",
+        "fontSize": "{fontSize.xl}",
+        "letterSpacing": "{letterSpacing.buttons}"
+      },
+      "type": "typography"
+    },
+    "tablet": {
+      "value": {
+        "fontFamily": "{body.FoundersGrotesk}",
+        "fontWeight": "{fontWeights.headlines.semibold}",
+        "lineHeight": "{lineHeights.headlines.100}",
+        "fontSize": "{fontSize.2xl}",
+        "letterSpacing": "{letterSpacing.headlines}"
+      },
+      "type": "typography"
+    },
+    "mobile": {
+      "value": {
+        "fontFamily": "{body.FoundersGrotesk}",
+        "fontWeight": "{fontWeights.headlines.semibold}",
+        "lineHeight": "{lineHeights.headlines.100}",
+        "fontSize": "{fontSize.xl}",
+        "letterSpacing": "{letterSpacing.headlines}"
       },
       "type": "typography"
     }
