@@ -287,7 +287,7 @@
       "value": {
         "fontFamily": "{body.FoundersGrotesk}",
         "fontWeight": "{fontWeights.headlines.semibold}",
-        "lineHeight": "{lineHeights.headlines.90}",
+        "lineHeight": "{lineHeights.headlines.100}",
         "fontSize": "{fontSize.6xl}",
         "letterSpacing": "{letterSpacing.headlines}"
       },
@@ -297,7 +297,7 @@
       "value": {
         "fontFamily": "{body.FoundersGrotesk}",
         "fontWeight": "{fontWeights.headlines.semibold}",
-        "lineHeight": "{lineHeights.headlines.90}",
+        "lineHeight": "{lineHeights.headlines.100}",
         "fontSize": "{fontSize.4xl}",
         "letterSpacing": "{letterSpacing.headlines}"
       },
@@ -307,7 +307,7 @@
       "value": {
         "fontFamily": "{body.FoundersGrotesk}",
         "fontWeight": "{fontWeights.headlines.semibold}",
-        "lineHeight": "{lineHeights.headlines.90}",
+        "lineHeight": "{lineHeights.headlines.100}",
         "fontSize": "{fontSize.3xl}",
         "letterSpacing": "{letterSpacing.headlines}"
       },
@@ -319,7 +319,7 @@
       "value": {
         "fontFamily": "{body.FoundersGrotesk}",
         "fontWeight": "{fontWeights.headlines.semibold}",
-        "lineHeight": "{lineHeights.headlines.90}",
+        "lineHeight": "{lineHeights.headlines.100}",
         "fontSize": "{fontSize.3xl}",
         "letterSpacing": "{letterSpacing.headlines}"
       },
@@ -329,7 +329,7 @@
       "value": {
         "fontFamily": "{body.FoundersGrotesk}",
         "fontWeight": "{fontWeights.headlines.semibold}",
-        "lineHeight": "{lineHeights.headlines.90}",
+        "lineHeight": "{lineHeights.headlines.100}",
         "fontSize": "{fontSize.2xl}",
         "letterSpacing": "{letterSpacing.headlines}"
       },
@@ -339,7 +339,7 @@
       "value": {
         "fontFamily": "{body.FoundersGrotesk}",
         "fontWeight": "{fontWeights.headlines.semibold}",
-        "lineHeight": "{lineHeights.headlines.90}",
+        "lineHeight": "{lineHeights.headlines.100}",
         "fontSize": "{fontSize.xl}",
         "letterSpacing": "{letterSpacing.headlines}"
       },
@@ -359,6 +359,17 @@
       "type": "typography"
     },
     "tablet": {
+      "value": {
+        "fontFamily": "{icons.FontAwesomePro}",
+        "fontWeight": "{fontWeights.icon.Light}",
+        "lineHeight": "{lineHeights.headlines.100}",
+        "fontSize": "{fontSize.4xl}",
+        "letterSpacing": "{letterSpacing.body}",
+        "paragraphSpacing": "{paragraphSpacing.default}"
+      },
+      "type": "typography"
+    },
+    "mobile": {
       "value": {
         "fontFamily": "{icons.FontAwesomePro}",
         "fontWeight": "{fontWeights.icon.Light}",
