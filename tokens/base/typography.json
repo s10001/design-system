@@ -412,5 +412,17 @@
       },
       "type": "typography"
     }
+  },
+  "border": {
+    "value": {
+      "color": "{greyscale.white}",
+      "width": "2",
+      "style": "solid"
+    },
+    "type": "border"
+  },
+  "radius": {
+    "value": "999",
+    "type": "borderRadius"
   }
 }
