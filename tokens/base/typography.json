@@ -358,6 +358,17 @@
       },
       "type": "typography"
     },
+    "feature": {
+      "value": {
+        "fontFamily": "{icons.FontAwesomePro}",
+        "fontWeight": "{fontWeights.icon.Light}",
+        "lineHeight": "{lineHeights.headlines.100}",
+        "fontSize": "{fontSize.8xl}",
+        "letterSpacing": "{letterSpacing.body}",
+        "paragraphSpacing": "{paragraphSpacing.default}"
+      },
+      "type": "typography"
+    },
     "tablet": {
       "value": {
         "fontFamily": "{icons.FontAwesomePro}",
