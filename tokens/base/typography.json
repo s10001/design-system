@@ -347,23 +347,78 @@
     }
   },
   "icon": {
-    "desktop": {
+    "24": {
       "value": {
         "fontFamily": "{icons.FontAwesomePro}",
         "fontWeight": "{fontWeights.icon.Light}",
         "lineHeight": "{lineHeights.headlines.100}",
-        "fontSize": "{fontSize.6xl}",
+        "fontSize": "{fontSize.lg}",
         "letterSpacing": "{letterSpacing.body}",
         "paragraphSpacing": "{paragraphSpacing.default}"
       },
       "type": "typography"
     },
-    "feature": {
+    "28": {
       "value": {
         "fontFamily": "{icons.FontAwesomePro}",
         "fontWeight": "{fontWeights.icon.Light}",
         "lineHeight": "{lineHeights.headlines.100}",
-        "fontSize": "{fontSize.8xl}",
+        "fontSize": "{fontSize.xl}",
+        "letterSpacing": "{letterSpacing.body}",
+        "paragraphSpacing": "{paragraphSpacing.default}"
+      },
+      "type": "typography"
+    },
+    "32": {
+      "value": {
+        "fontFamily": "{icons.FontAwesomePro}",
+        "fontWeight": "{fontWeights.icon.Light}",
+        "lineHeight": "{lineHeights.headlines.100}",
+        "fontSize": "{fontSize.2xl}",
+        "letterSpacing": "{letterSpacing.body}",
+        "paragraphSpacing": "{paragraphSpacing.default}"
+      },
+      "type": "typography"
+    },
+    "36": {
+      "value": {
+        "fontFamily": "{icons.FontAwesomePro}",
+        "fontWeight": "{fontWeights.icon.Light}",
+        "lineHeight": "{lineHeights.headlines.100}",
+        "fontSize": "{fontSize.3xl}",
+        "letterSpacing": "{letterSpacing.body}",
+        "paragraphSpacing": "{paragraphSpacing.default}"
+      },
+      "type": "typography"
+    },
+    "48": {
+      "value": {
+        "fontFamily": "{icons.FontAwesomePro}",
+        "fontWeight": "{fontWeights.icon.Light}",
+        "lineHeight": "{lineHeights.headlines.100}",
+        "fontSize": "{fontSize.4xl}",
+        "letterSpacing": "{letterSpacing.body}",
+        "paragraphSpacing": "{paragraphSpacing.default}"
+      },
+      "type": "typography"
+    },
+    "64": {
+      "value": {
+        "fontFamily": "{icons.FontAwesomePro}",
+        "fontWeight": "{fontWeights.icon.Light}",
+        "lineHeight": "{lineHeights.headlines.100}",
+        "fontSize": "{fontSize.5xl}",
+        "letterSpacing": "{letterSpacing.body}",
+        "paragraphSpacing": "{paragraphSpacing.default}"
+      },
+      "type": "typography"
+    },
+    "128": {
+      "value": {
+        "fontFamily": "{icons.FontAwesomePro}",
+        "fontWeight": "{fontWeights.icon.Light}",
+        "lineHeight": "{lineHeights.headlines.100}",
+        "fontSize": "{fontSize.9xl}",
         "letterSpacing": "{letterSpacing.body}",
         "paragraphSpacing": "{paragraphSpacing.default}"
       },
