@@ -227,8 +227,8 @@
       "value": "-1%",
       "type": "letterSpacing"
     },
-    "brand": {
-      "value": "-0.6%",
+    "bignumber": {
+      "value": "-2%",
       "type": "letterSpacing"
     },
     "brand-copy": {
@@ -257,7 +257,7 @@
         "fontWeight": "{fontWeights.headlines.semibold}",
         "lineHeight": "{lineHeights.headlines.90}",
         "fontSize": "{fontSize.9xl}",
-        "letterSpacing": "{letterSpacing.brand}"
+        "letterSpacing": "{letterSpacing.bignumber}"
       },
       "type": "typography"
     },
@@ -267,7 +267,7 @@
         "fontWeight": "{fontWeights.headlines.semibold}",
         "lineHeight": "{lineHeights.headlines.90}",
         "fontSize": "{fontSize.8xl}",
-        "letterSpacing": "{letterSpacing.brand}"
+        "letterSpacing": "{letterSpacing.bignumber}"
       },
       "type": "typography"
     },
@@ -277,7 +277,7 @@
         "fontWeight": "{fontWeights.headlines.semibold}",
         "lineHeight": "{lineHeights.headlines.90}",
         "fontSize": "{fontSize.6xl}",
-        "letterSpacing": "{letterSpacing.brand}"
+        "letterSpacing": "{letterSpacing.bignumber}"
       },
       "type": "typography"
     }
@@ -543,7 +543,7 @@
         "fontWeight": "{fontWeights.headlines.semibold}",
         "lineHeight": "{lineHeights.headlines.90}",
         "fontSize": "{fontSize.9xl}",
-        "letterSpacing": "{letterSpacing.brand}"
+        "letterSpacing": "{letterSpacing.bignumber}"
       },
       "type": "typography"
     },
@@ -552,8 +552,8 @@
         "fontFamily": "{heading.FoundersGrotesk}",
         "fontWeight": "{fontWeights.headlines.semibold}",
         "lineHeight": "{lineHeights.headlines.90}",
-        "fontSize": "{fontSize.8xl}",
-        "letterSpacing": "{letterSpacing.brand}"
+        "fontSize": "{fontSize.7xl}",
+        "letterSpacing": "{letterSpacing.bignumber}"
       },
       "type": "typography"
     },
@@ -563,7 +563,71 @@
         "fontWeight": "{fontWeights.headlines.semibold}",
         "lineHeight": "{lineHeights.headlines.90}",
         "fontSize": "{fontSize.6xl}",
-        "letterSpacing": "{letterSpacing.brand}"
+        "letterSpacing": "{letterSpacing.bignumber}"
+      },
+      "type": "typography"
+    }
+  },
+  "Display2": {
+    "desktop": {
+      "value": {
+        "fontFamily": "{heading.FoundersGrotesk}",
+        "fontWeight": "{fontWeights.headlines.semibold}",
+        "lineHeight": "{lineHeights.headlines.90}",
+        "fontSize": "{fontSize.8xl}",
+        "letterSpacing": "{letterSpacing.bignumber}"
+      },
+      "type": "typography"
+    },
+    "tablet": {
+      "value": {
+        "fontFamily": "{heading.FoundersGrotesk}",
+        "fontWeight": "{fontWeights.headlines.semibold}",
+        "lineHeight": "{lineHeights.headlines.90}",
+        "fontSize": "{fontSize.5xl}",
+        "letterSpacing": "{letterSpacing.bignumber}"
+      },
+      "type": "typography"
+    },
+    "mobile": {
+      "value": {
+        "fontFamily": "{heading.FoundersGrotesk}",
+        "fontWeight": "{fontWeights.headlines.semibold}",
+        "lineHeight": "{lineHeights.headlines.90}",
+        "fontSize": "{fontSize.4xl}",
+        "letterSpacing": "{letterSpacing.bignumber}"
+      },
+      "type": "typography"
+    }
+  },
+  "heading4": {
+    "desktop": {
+      "value": {
+        "fontFamily": "{body.FoundersGrotesk}",
+        "fontWeight": "{fontWeights.headlines.semibold}",
+        "lineHeight": "{lineHeights.headlines.100}",
+        "fontSize": "{fontSize.2xl}",
+        "letterSpacing": "{letterSpacing.headlines}"
+      },
+      "type": "typography"
+    },
+    "tablet": {
+      "value": {
+        "fontFamily": "{body.FoundersGrotesk}",
+        "fontWeight": "{fontWeights.headlines.semibold}",
+        "lineHeight": "{lineHeights.headlines.100}",
+        "fontSize": "{fontSize.xl}",
+        "letterSpacing": "{letterSpacing.headlines}"
+      },
+      "type": "typography"
+    },
+    "mobile": {
+      "value": {
+        "fontFamily": "{body.FoundersGrotesk}",
+        "fontWeight": "{fontWeights.headlines.semibold}",
+        "lineHeight": "{lineHeights.headlines.100}",
+        "fontSize": "{fontSize.lg}",
+        "letterSpacing": "{letterSpacing.headlines}"
       },
       "type": "typography"
     }
