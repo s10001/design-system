@@ -277,8 +277,8 @@
       }
     },
     "body": {
-      "Bold": {
-        "value": "Bold",
+      "Semibold": {
+        "value": "Semibold",
         "type": "fontWeights"
       },
       "Regular": {
@@ -293,6 +293,10 @@
       },
       "Bold": {
         "value": "Bold",
+        "type": "fontWeights"
+      },
+      "Light": {
+        "value": "Light",
         "type": "fontWeights"
       }
     }
