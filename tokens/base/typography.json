@@ -4,7 +4,7 @@
       "value": "Founders Grotesk R",
       "type": "fontFamilies"
     },
-    "desktop": {
+    "lg": {
       "value": {
         "fontFamily": "{heading.FoundersGrotesk}",
         "fontWeight": "{fontWeights.body.regular}",
@@ -15,7 +15,7 @@
       },
       "type": "typography"
     },
-    "tablet": {
+    "xs": {
       "value": {
         "fontFamily": "{heading.FoundersGrotesk}",
         "fontWeight": "{fontWeights.body.regular}",
@@ -26,7 +26,18 @@
       },
       "type": "typography"
     },
-    "mobile": {
+    "md": {
+      "value": {
+        "fontFamily": "{heading.FoundersGrotesk}",
+        "fontWeight": "{fontWeights.body.regular}",
+        "lineHeight": "{lineHeights.body.120}",
+        "fontSize": "{fontSize.md}",
+        "letterSpacing": "{letterSpacing.body}",
+        "paragraphSpacing": "{paragraphSpacing.default}"
+      },
+      "type": "typography"
+    },
+    "sm": {
       "value": {
         "fontFamily": "{heading.FoundersGrotesk}",
         "fontWeight": "{fontWeights.body.regular}",
