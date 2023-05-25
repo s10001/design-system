@@ -54,7 +54,7 @@
       "value": "Founders Grotesk R",
       "type": "fontFamilies"
     },
-    "FoundersGroteskCondensed": {
+    "FoundersGroteskX-Condensed": {
       "value": "Founders Grotesk X-Condensed",
       "type": "fontFamilies"
     }
@@ -264,7 +264,7 @@
   "heading1": {
     "desktop": {
       "value": {
-        "fontFamily": "{heading.FoundersGroteskCondensed}",
+        "fontFamily": "{heading.FoundersGroteskX-Condensed}",
         "fontWeight": "{fontWeights.headlines.semibold}",
         "lineHeight": "{lineHeights.headlines.90}",
         "fontSize": "{fontSize.9xl}",
@@ -274,7 +274,7 @@
     },
     "tablet": {
       "value": {
-        "fontFamily": "{heading.FoundersGroteskCondensed}",
+        "fontFamily": "{heading.FoundersGroteskX-Condensed}",
         "fontWeight": "{fontWeights.headlines.semibold}",
         "lineHeight": "{lineHeights.headlines.90}",
         "fontSize": "{fontSize.8xl}",
@@ -284,7 +284,7 @@
     },
     "mobile": {
       "value": {
-        "fontFamily": "{heading.FoundersGroteskCondensed}",
+        "fontFamily": "{heading.FoundersGroteskX-Condensed}",
         "fontWeight": "{fontWeights.headlines.semibold}",
         "lineHeight": "{lineHeights.headlines.90}",
         "fontSize": "{fontSize.6xl}",
