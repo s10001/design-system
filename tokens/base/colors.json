@@ -60,5 +60,9 @@
       "value": "#FF7900",
       "type": "color"
     }
+  },
+  "Lightbox": {
+    "value": "0.9",
+    "type": "opacity"
   }
 }
