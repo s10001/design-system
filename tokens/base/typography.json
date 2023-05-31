@@ -712,5 +712,63 @@
       },
       "type": "typography"
     }
+  },
+  "link": {
+    "lg": {
+      "value": {
+        "fontFamily": "{heading.FoundersGrotesk}",
+        "fontWeight": "{fontWeights.body.Regular}",
+        "lineHeight": "{lineHeights.body.140}",
+        "fontSize": "{fontSize.md}",
+        "letterSpacing": "{letterSpacing.body}",
+        "paragraphSpacing": "{paragraphSpacing.default}",
+        "textDecoration": "{Underline}"
+      },
+      "type": "typography"
+    },
+    "md": {
+      "value": {
+        "fontFamily": "{heading.FoundersGrotesk}",
+        "fontWeight": "{fontWeights.body.Regular}",
+        "lineHeight": "{lineHeights.body.140}",
+        "fontSize": "{fontSize.md}",
+        "letterSpacing": "{letterSpacing.body}",
+        "paragraphSpacing": "{paragraphSpacing.default}",
+        "textDecoration": "{Underline}"
+      },
+      "type": "typography"
+    },
+    "xs": {
+      "value": {
+        "fontFamily": "{heading.FoundersGrotesk}",
+        "fontWeight": "{fontWeights.body.Regular}",
+        "lineHeight": "{lineHeights.body.140}",
+        "fontSize": "{fontSize.md}",
+        "letterSpacing": "{letterSpacing.body}",
+        "paragraphSpacing": "{paragraphSpacing.default}",
+        "textDecoration": "{Underline}"
+      },
+      "type": "typography"
+    },
+    "sm": {
+      "value": {
+        "fontFamily": "{heading.FoundersGrotesk}",
+        "fontWeight": "{fontWeights.body.Regular}",
+        "lineHeight": "{lineHeights.body.140}",
+        "fontSize": "{fontSize.md}",
+        "letterSpacing": "{letterSpacing.body}",
+        "paragraphSpacing": "{paragraphSpacing.default}",
+        "textDecoration": "{Underline}"
+      },
+      "type": "typography"
+    }
+  },
+  "Underline": {
+    "value": "underline",
+    "type": "textDecoration"
+  },
+  "None": {
+    "value": "none",
+    "type": "textDecoration"
   }
 }
