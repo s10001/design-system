@@ -26,7 +26,7 @@
       },
       "type": "typography"
     },
-    "xs": {
+    "sm": {
       "value": {
         "fontFamily": "{heading.FoundersGrotesk}",
         "fontWeight": "{fontWeights.body.Regular}",
@@ -37,7 +37,7 @@
       },
       "type": "typography"
     },
-    "sm": {
+    "xs": {
       "value": {
         "fontFamily": "{heading.FoundersGrotesk}",
         "fontWeight": "{fontWeights.body.Regular}",
