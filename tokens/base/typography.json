@@ -665,6 +665,38 @@
         },
         "type": "typography"
       }
+    },
+    "mdNumber": {
+      "lg": {
+        "value": {
+          "fontFamily": "{heading.FoundersGrotesk}",
+          "fontWeight": "{fontWeights.headlines.Semibold}",
+          "lineHeight": "{lineHeights.headlines.90}",
+          "fontSize": "{fontSize.6xl}",
+          "letterSpacing": "{letterSpacing.bignumber}"
+        },
+        "type": "typography"
+      },
+      "md": {
+        "value": {
+          "fontFamily": "{heading.FoundersGrotesk}",
+          "fontWeight": "{fontWeights.headlines.Semibold}",
+          "lineHeight": "{lineHeights.headlines.90}",
+          "fontSize": "{fontSize.5xl}",
+          "letterSpacing": "{letterSpacing.bignumber}"
+        },
+        "type": "typography"
+      },
+      "sm": {
+        "value": {
+          "fontFamily": "{heading.FoundersGrotesk}",
+          "fontWeight": "{fontWeights.headlines.Semibold}",
+          "lineHeight": "{lineHeights.headlines.90}",
+          "fontSize": "{fontSize.4xl}",
+          "letterSpacing": "{letterSpacing.bignumber}"
+        },
+        "type": "typography"
+      }
     }
   },
   "legal": {
