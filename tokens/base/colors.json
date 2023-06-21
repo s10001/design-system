@@ -176,5 +176,27 @@
       "value": "90%",
       "type": "opacity"
     }
+  },
+  "blue": {
+    "20": {
+      "value": "#FFDECC",
+      "type": "color"
+    },
+    "40": {
+      "value": "#FFBD99",
+      "type": "color"
+    },
+    "60": {
+      "value": "#FF9D66",
+      "type": "color"
+    },
+    "80": {
+      "value": "#FF7C33",
+      "type": "color"
+    },
+    "100": {
+      "value": "#0D1B46",
+      "type": "color"
+    }
   }
 }
