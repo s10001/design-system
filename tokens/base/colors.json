@@ -47,51 +47,87 @@
       "type": "color"
     }
   },
-  "others": {
-    "green": {
-      "value": "#00ff00",
-      "type": "color"
-    },
-    "red": {
-      "value": "#FF0000",
-      "type": "color"
-    },
-    "orange": {
-      "value": "#FF7900",
-      "type": "color"
-    },
-    "blue": {
-      "value": "#2196f3",
-      "type": "color"
-    },
-    "blue-light": {
-      "value": "#2196f3",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.1",
-            "space": "srgb"
+  "accessible": {
+    "light": {
+      "green": {
+        "value": "#00ff00",
+        "type": "color"
+      },
+      "red": {
+        "value": "#FF0000",
+        "type": "color"
+      },
+      "orange": {
+        "value": "#FF7900",
+        "type": "color"
+      },
+      "blue": {
+        "value": "#2196f3",
+        "type": "color"
+      },
+      "blue-light": {
+        "value": "#2196f3",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "srgb"
+            }
+          }
+        }
+      },
+      "yellow": {
+        "value": "#ffcc00",
+        "type": "color"
+      },
+      "yellow-light": {
+        "value": "#FF9800",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "srgb"
+            }
           }
         }
       }
     },
-    "yellow": {
-      "value": "#FF9800",
-      "type": "color"
-    },
-    "yellow-light": {
-      "value": "#FF9800",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.1",
-            "space": "srgb"
-          }
-        }
+    "alert": {
+      "red-bg": {
+        "value": "#ffebeb",
+        "type": "color"
+      },
+      "red-text": {
+        "value": "#980004",
+        "type": "color"
+      },
+      "yellow-bg": {
+        "value": "#fff3d4",
+        "type": "color"
+      },
+      "yellow-text": {
+        "value": "#523108",
+        "type": "color"
+      },
+      "green-bg": {
+        "value": "#d7fbd8",
+        "type": "color"
+      },
+      "green-text": {
+        "value": "#0e2307",
+        "type": "color"
+      },
+      "blue-bg": {
+        "value": "#e7f5ff",
+        "type": "color"
+      },
+      "blue-text": {
+        "value": "#01174b",
+        "type": "color"
       }
     }
   },
