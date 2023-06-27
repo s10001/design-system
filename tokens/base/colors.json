@@ -136,10 +136,6 @@
     "type": "opacity"
   },
   "opacity": {
-    "0": {
-      "value": "0%",
-      "type": "opacity"
-    },
     "5": {
       "value": "5%",
       "type": "opacity"
