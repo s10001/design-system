@@ -9,7 +9,10 @@
       "base/typography": "source",
       "base/dimension": "source"
     },
-    "$figmaStyleReferences": {}
+    "$figmaStyleReferences": {},
+    "$figmaCollectionId": "VariableCollectionId:2766:16569",
+    "$figmaModeId": "2766:0",
+    "$figmaVariableReferences": {}
   },
   {
     "id": "54be2eea0002a21bff606bb38bc5cff56fcaaff3",
@@ -21,7 +24,10 @@
       "base/typography": "source",
       "base/dimension": "source"
     },
-    "$figmaStyleReferences": {}
+    "$figmaStyleReferences": {},
+    "$figmaCollectionId": "VariableCollectionId:2766:16570",
+    "$figmaModeId": "2766:1",
+    "$figmaVariableReferences": {}
   },
   {
     "id": "975c20aafa00ba52962b043ac09182ee5d0b5e37",
@@ -33,6 +39,9 @@
       "base/typography": "source",
       "base/dimension": "source"
     },
-    "$figmaStyleReferences": {}
+    "$figmaStyleReferences": {},
+    "$figmaCollectionId": "VariableCollectionId:2766:16571",
+    "$figmaModeId": "2766:2",
+    "$figmaVariableReferences": {}
   }
 ]
