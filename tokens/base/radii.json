@@ -1,4 +1,8 @@
 {
+  "1": {
+    "value": "1",
+    "type": "borderWidth"
+  },
   "radii": {
     "base": {
       "value": "6",
@@ -33,5 +37,21 @@
       "value": "100",
       "type": "borderRadius"
     }
+  },
+  "line": {
+    "value": {
+      "color": "{accessible.alert.blue-bg}",
+      "width": "{1}",
+      "style": "solid"
+    },
+    "type": "border"
+  },
+  "dashed": {
+    "value": {
+      "color": "{greyscale.light-grey}",
+      "width": "{1}",
+      "style": "dashed"
+    },
+    "type": "border"
   }
 }
