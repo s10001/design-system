@@ -502,7 +502,7 @@
           "fontFamily": "{heading.FoundersGrotesk}",
           "fontWeight": "{fontWeights.headlines.Semibold}",
           "lineHeight": "{lineHeights.headlines.100}",
-          "fontSize": "{fontSize.xl}",
+          "fontSize": "{fontSize.lg}",
           "letterSpacing": "{letterSpacing.headlines}"
         },
         "type": "typography"
