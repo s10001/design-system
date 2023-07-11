@@ -147,22 +147,22 @@
       }
     },
     "bold": {
-      "lg": {
+      "md": {
         "value": {
           "fontFamily": "{heading.FoundersGrotesk}",
           "fontWeight": "{fontWeights.body.Semibold}",
-          "lineHeight": "{lineHeights.body.140}",
+          "lineHeight": "{lineHeights.body.130}",
           "fontSize": "{fontSize.md}",
           "letterSpacing": "{letterSpacing.body}",
           "paragraphSpacing": "{paragraphSpacing.default}"
         },
         "type": "typography"
       },
-      "md": {
+      "lg": {
         "value": {
           "fontFamily": "{heading.FoundersGrotesk}",
           "fontWeight": "{fontWeights.body.Semibold}",
-          "lineHeight": "{lineHeights.body.130}",
+          "lineHeight": "{lineHeights.body.140}",
           "fontSize": "{fontSize.md}",
           "letterSpacing": "{letterSpacing.body}",
           "paragraphSpacing": "{paragraphSpacing.default}"
