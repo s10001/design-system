@@ -64,6 +64,17 @@
         "type": "dropShadow"
       },
       "type": "boxShadow"
+    },
+    "large": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "10",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.2)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     }
   }
 }

@@ -180,6 +180,10 @@
       "value": "90%",
       "type": "opacity"
     },
+    "99": {
+      "value": "99%",
+      "type": "opacity"
+    },
     "100": {
       "value": "100%",
       "type": "opacity"
