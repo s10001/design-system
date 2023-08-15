@@ -446,7 +446,7 @@
           "value": {
             "fontFamily": "{heading.FoundersGrotesk}",
             "fontWeight": "{fontWeights.headlines.Semibold}",
-            "lineHeight": "{lineHeights.headlines.100}",
+            "lineHeight": "{lineHeights.body.120}",
             "fontSize": "{fontSize.3xl}",
             "letterSpacing": "{letterSpacing.headlines}"
           },
@@ -456,7 +456,7 @@
           "value": {
             "fontFamily": "{heading.FoundersGrotesk}",
             "fontWeight": "{fontWeights.headlines.Semibold}",
-            "lineHeight": "{lineHeights.headlines.100}",
+            "lineHeight": "{lineHeights.headlines.120}",
             "fontSize": "{fontSize.2xl}",
             "letterSpacing": "{letterSpacing.headlines}"
           },
@@ -466,7 +466,7 @@
           "value": {
             "fontFamily": "{heading.FoundersGrotesk}",
             "fontWeight": "{fontWeights.headlines.Semibold}",
-            "lineHeight": "{lineHeights.headlines.100}",
+            "lineHeight": "{lineHeights.headlines.120}",
             "fontSize": "{fontSize.xl}",
             "letterSpacing": "{letterSpacing.headlines}"
           },
@@ -478,7 +478,7 @@
           "value": {
             "fontFamily": "{heading.FoundersGrotesk}",
             "fontWeight": "{fontWeights.headlines.Regular}",
-            "lineHeight": "{lineHeights.headlines.100}",
+            "lineHeight": "{lineHeights.headlines.120}",
             "fontSize": "{fontSize.3xl}",
             "letterSpacing": "{letterSpacing.headlines}"
           },
@@ -488,7 +488,7 @@
           "value": {
             "fontFamily": "{heading.FoundersGrotesk}",
             "fontWeight": "{fontWeights.headlines.Regular}",
-            "lineHeight": "{lineHeights.headlines.100}",
+            "lineHeight": "{lineHeights.headlines.120}",
             "fontSize": "{fontSize.2xl}",
             "letterSpacing": "{letterSpacing.headlines}"
           },
@@ -498,7 +498,7 @@
           "value": {
             "fontFamily": "{heading.FoundersGrotesk}",
             "fontWeight": "{fontWeights.headlines.Regular}",
-            "lineHeight": "{lineHeights.headlines.100}",
+            "lineHeight": "{lineHeights.headlines.120}",
             "fontSize": "{fontSize.xl}",
             "letterSpacing": "{letterSpacing.headlines}"
           },
