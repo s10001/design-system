@@ -19,6 +19,19 @@
     "100": {
       "value": "#FF5B00",
       "type": "color"
+    },
+    "100-copy": {
+      "value": "#FF5B00",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.05",
+            "space": "lch"
+          }
+        }
+      }
     }
   },
   "greyscale": {
