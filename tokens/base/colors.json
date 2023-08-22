@@ -202,25 +202,25 @@
       "type": "opacity"
     }
   },
-  "blue": {
-    "20": {
-      "value": "#FFDECC",
+  "secondary": {
+    "maroon": {
+      "value": "#A1002E",
       "type": "color"
     },
-    "40": {
-      "value": "#FFBD99",
+    "green": {
+      "value": "#0E563E",
       "type": "color"
     },
-    "60": {
-      "value": "#FF9D66",
+    "yellow": {
+      "value": "#FFCD48",
       "type": "color"
     },
-    "80": {
-      "value": "#FF7C33",
+    "blue": {
+      "value": "#1739AA",
       "type": "color"
     },
-    "100": {
-      "value": "#0D1B46",
+    "midnight": {
+      "value": "#081B49",
       "type": "color"
     }
   }
