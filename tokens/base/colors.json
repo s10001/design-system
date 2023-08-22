@@ -222,6 +222,10 @@
     "midnight": {
       "value": "#081B49",
       "type": "color"
+    },
+    "navyblue": {
+      "value": "#081B49",
+      "type": "color"
     }
   }
 }
