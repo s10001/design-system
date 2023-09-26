@@ -377,7 +377,7 @@
             "fontFamily": "{heading.FoundersGrotesk}",
             "fontWeight": "{fontWeights.headlines.Semibold}",
             "lineHeight": "{lineHeights.headlines.100}",
-            "fontSize": "{fontSize.6xl}",
+            "fontSize": "{fontSize.5xl}",
             "letterSpacing": "{letterSpacing.headlines}"
           },
           "type": "typography"
@@ -409,7 +409,7 @@
             "fontFamily": "{heading.FoundersGrotesk}",
             "fontWeight": "{fontWeights.headlines.Regular}",
             "lineHeight": "{lineHeights.headlines.100}",
-            "fontSize": "{fontSize.6xl}",
+            "fontSize": "{fontSize.5xl}",
             "letterSpacing": "{letterSpacing.headlines}"
           },
           "type": "typography"
