@@ -339,7 +339,7 @@
       "type": "fontFamilies"
     },
     "FoundersGroteskCondensed": {
-      "value": "Founders Grotesk Condensed",
+      "value": "Founders Grotesk X-Condensed",
       "type": "fontFamilies"
     },
     "h1": {
@@ -355,7 +355,7 @@
       },
       "md": {
         "value": {
-          "fontFamily": "{heading.FoundersGrotesk}",
+          "fontFamily": "{heading.FoundersGroteskCondensed}",
           "fontWeight": "{fontWeights.brandheadline.Semibold}",
           "lineHeight": "{lineHeights.headlines.90}",
           "fontSize": "{fontSize.8xl}",
@@ -365,7 +365,7 @@
       },
       "sm": {
         "value": {
-          "fontFamily": "{heading.FoundersGrotesk}",
+          "fontFamily": "{heading.FoundersGroteskCondensed}",
           "fontWeight": "{fontWeights.brandheadline.Semibold}",
           "lineHeight": "{lineHeights.headlines.90}",
           "fontSize": "{fontSize.6xl}",
