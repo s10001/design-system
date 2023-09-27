@@ -341,8 +341,8 @@
     "h1": {
       "lg": {
         "value": {
-          "fontFamily": "{heading.FoundersGrotesk}",
-          "fontWeight": "{fontWeights.brandheadline.Semibold}",
+          "fontFamily": "{heading.FoundersGroteskCondensed}",
+          "fontWeight": "{fontWeights.headlines.Semibold}",
           "lineHeight": "{lineHeights.headlines.90}",
           "fontSize": "{fontSize.9xl}",
           "letterSpacing": "{letterSpacing.bignumber}"
@@ -351,8 +351,8 @@
       },
       "md": {
         "value": {
-          "fontFamily": "{heading.FoundersGrotesk}",
-          "fontWeight": "{fontWeights.brandheadline.Semibold}",
+          "fontFamily": "{heading.FoundersGroteskCondensed}",
+          "fontWeight": "{fontWeights.headlines.Semibold}",
           "lineHeight": "{lineHeights.headlines.90}",
           "fontSize": "{fontSize.8xl}",
           "letterSpacing": "{letterSpacing.bignumber}"
@@ -361,8 +361,8 @@
       },
       "sm": {
         "value": {
-          "fontFamily": "{heading.FoundersGrotesk}",
-          "fontWeight": "{fontWeights.brandheadline.Semibold}",
+          "fontFamily": "{heading.FoundersGroteskCondensed}",
+          "fontWeight": "{fontWeights.headlines.Semibold}",
           "lineHeight": "{lineHeights.headlines.90}",
           "fontSize": "{fontSize.6xl}",
           "letterSpacing": "{letterSpacing.bignumber}"
@@ -633,6 +633,10 @@
           "type": "typography"
         }
       }
+    },
+    "FoundersGroteskCondensed": {
+      "value": "Founders Grotesk X-Condensed",
+      "type": "fontFamilies"
     }
   },
   "icons": {
